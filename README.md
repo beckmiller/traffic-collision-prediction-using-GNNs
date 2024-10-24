@@ -1,11 +1,11 @@
 # cs-470-course-project
 
-**Beck Miller**
-*Department of Computer Science*
+**Beck Miller** \\
+*Department of Computer Science* \\
 *Emory University*
 
-**Fatim Majumder**
-*Department of Computer Science*
+**Fatim Majumder** \\
+*Department of Computer Science* \\
 *Emory University*
 
 ## Abstract:
